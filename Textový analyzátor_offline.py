@@ -118,7 +118,7 @@ for number in sequence:
         counts[number] = counts[number] + 1
 for key, value in sorted(counts.items()):
     print(key, "|", "*"*value, "|", value)
-
+print("nevím si rady")
 
         
 

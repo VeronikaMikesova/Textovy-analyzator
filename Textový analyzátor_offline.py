@@ -3,7 +3,7 @@ print("""
 projekt_1.py: první projekt do Engeto Online Python Akademie
 author: Veronika Mikešová
 email: veronikamikesova@gmail.com
-discord:
+discord: Veronika M.#2692
 """)
 # vstupní data
 oddelovac = "-"*62
@@ -118,7 +118,7 @@ for number in sequence:
         counts[number] = counts[number] + 1
 for key, value in sorted(counts.items()):
     print(key, "|", "*"*value, "|", value)
-print("nevím si rady")
+
 
         
 
